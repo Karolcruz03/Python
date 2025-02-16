@@ -13,3 +13,5 @@ Resultado8 = False | False # = false
 #NOT
 Resultado9 = not True # = false
 Resultado10 = not False # = True
+
+print(Resultado1)
