@@ -42,3 +42,7 @@ print(lista2)
 # REVERSE - invierte los elementos de una lista
 lista2.reverse()
 print(lista2)
+
+#verificando su un elemento se encuentra en la lista
+encontrar = lista2.index(True)
+print(encontrar)
